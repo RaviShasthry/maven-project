@@ -1,1 +1,14 @@
 target
+/.settings/*.prefs
+/server/*.classpath
+/server/*.project
+/server/.settings/*.prefs
+/webapp/*.classpath
+/webapp/*.project
+/webapp/.settings/*.jsdtscope
+/webapp/.settings/*.prefs
+/webapp/.settings/*.component
+/webapp/.settings/*.xml
+/webapp/.settings/*.container
+/webapp/.settings/*.name
+/*.project
